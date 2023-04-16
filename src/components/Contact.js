@@ -58,6 +58,17 @@ export default function Contact() {
                 PHONE
               </h2>
               <p className="leading-relaxed">9940-11-6905</p>
+              <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
+                SOCIAL MEDIA
+              </h2>
+              <div className ='flex'>
+              <a href ='https://www.linkedin.com/in/mano-s-31995b141/' rel ='noreferrer noopener nofollow' target='_blank'>
+                <img src="https://img.icons8.com/color/45/linkedin.png" alt-text='linkedin' />
+              </a>
+              <a href='https://github.com/ManoS9940' rel='nnoreferrer noopener nofollow' target='_blank'>
+                <img src="https://img.icons8.com/color/45/github.png" alt-text='linkedin' />
+              </a>
+              </div>
             </div>
           </div>
         </div>
